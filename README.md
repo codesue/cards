@@ -1,3 +1,15 @@
+---
+title: Cards
+emoji: ⚡
+colorFrom: gray
+colorTo: pink
+sdk: streamlit
+sdk_version: 1.15.2
+app_file: app.py
+pinned: false
+license: apache-2.0
+---
+
 # cards: prototype UIs for ML cards
 
 > ### 🌱 Just sprouting!
